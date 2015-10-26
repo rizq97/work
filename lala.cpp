@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//happy christmass
 int main(){
 	int i;
 	cin>>i;
